@@ -7,6 +7,11 @@ How to use:
 - npm install
 - node app.js
 
+Or using npm package:
+- npm install --save new-samsung-remote
+- in the app.js change const Remote = require('./lib/new-samsung-remote') to const Remote = require('new-samsung-remote');
+- node app.js
+
 
 Keys:
 
