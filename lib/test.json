@@ -1,0 +1,45 @@
+{
+    "event": "ms.channel.connect",
+    "data": {
+        "id": "5f8f8ba0-edd5-11e8-92a1-81695078a3eb",
+        "clients": [
+            {
+                "id": "1aa2fb80-edc1-11e8-92a1-81695078a3eb",
+                "connectTime": 1542827426618,
+                "attributes": {},
+                "deviceName": "U21hcnQgVmlldw==",
+                "isHost": false
+            },
+            {
+                "id": "1e69c780-edc1-11e8-92a1-81695078a3eb",
+                "connectTime": 1542827432952,
+                "attributes": {},
+                "deviceName": "U21hcnQgVmlldw==",
+                "isHost": false
+            },
+            {
+                "id": "35388e10-edc1-11e8-92a1-81695078a3eb",
+                "connectTime": 1542827471217,
+                "attributes": {},
+                "deviceName": "U21hcnQgVmlldw==",
+                "isHost": false
+            },
+            {
+                "id": "21053610-edc5-11e8-92a1-81695078a3eb",
+                "connectTime": 1542829155313,
+                "attributes": {},
+                "deviceName": "U21hcnQgVmlldw==",
+                "isHost": false
+            },
+            {
+                "id": "5f8f8ba0-edd5-11e8-92a1-81695078a3eb",
+                "connectTime": 1542836132186,
+                "attributes": {
+                    "name": "U2Ftc3VuZyBSZW1vdGU="
+                },
+                "deviceName": "U2Ftc3VuZyBSZW1vdGU=",
+                "isHost": false
+            }
+        ]
+    }
+}
